@@ -1,4 +1,4 @@
-Data augmenation in Natural Language Processing. 
+Data augmenation in Natural Language Processing (NLP) for text classification. 
 Techniques:
 BERT, Fine-tune BERT
 
